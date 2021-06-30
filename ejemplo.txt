@@ -27,3 +27,5 @@ R
 arduino
 cobol
 fortram
+perl
+
