@@ -6,4 +6,17 @@ angular
 nodejs
 jquery
 c++
+python
+ruby
+c
+c#
+laravel
+symfony
+pascal
+kernel
+bash
+binario
+assembler
+sql
+mongodb
 
