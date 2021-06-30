@@ -1,0 +1,9 @@
+aguante la programacion 
+react
+javascript
+vue
+angular
+nodejs
+jquery
+c++
+
